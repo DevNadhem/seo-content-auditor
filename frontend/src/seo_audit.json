@@ -1,0 +1,47 @@
+{
+    "target_url": "https://pstore.tn/",
+    "seo_metrics": {
+        "title": {
+            "text": "Pstore Tunisie | iPhone, Apple & Smartphones au Meilleur Prix",
+            "length": 61,
+            "status": "Warning: Title should be 50-60 characters."
+        },
+        "meta_description": {
+            "text": "Les meilleurs prix iPhone en Tunisie chez Pstore \ud83c\uddf9\ud83c\uddf3. Apple, Samsung, AirPods, montres connect\u00e9es et accessoires originaux avec garantie.",
+            "length": 136,
+            "status": "Warning: Description should be 150-160 characters."
+        },
+        "headings": {
+            "h1_count": 0,
+            "h1_status": "Warning: Page should have exactly one H1 tag.",
+            "h1_content": [],
+            "h2_count": 1
+        },
+        "images": {
+            "total_images": 48,
+            "missing_alt_count": 20,
+            "missing_alt_sources": [
+                "https://pstore.tn/wp-content/uploads/2025/12/pstore-logo-removebg-preview.png",
+                "https://pstore.tn/wp-content/uploads/2025/12/pstore-logo-removebg-preview.png",
+                "https://pstore.tn/wp-content/uploads/2025/12/StreamlineFlexWarrantyBadgeHighlight.svg",
+                "https://pstore.tn/wp-content/uploads/2025/12/PhCertificateLight.svg",
+                "https://pstore.tn/wp-content/uploads/2025/12/MaterialSymbolsLightSettingsPower.svg",
+                "https://pstore.tn/wp-content/uploads/2026/02/Coque.png",
+                "https://pstore.tn/wp-content/uploads/2026/02/IPHONE-1.png",
+                "https://pstore.tn/wp-content/uploads/2026/02/50-sur-le-2eme-article.png",
+                "https://pstore.tn/wp-content/uploads/2026/02/ACCESSOIRES.png",
+                "https://pstore.tn/wp-content/uploads/2026/02/app-watch-.png",
+                "https://pstore.tn/wp-content/uploads/2026/02/airpods.png",
+                "https://pstore.tn/wp-content/uploads/2026/01/00a778_4215ece9a15047d4974f9a25c67a281emv2-300x343.jpeg",
+                "https://pstore.tn/wp-content/uploads/2026/01/00a778_7cc69b5c76314bf38b07627a1e98b2c8mv2-300x343.jpg",
+                "https://pstore.tn/wp-content/uploads/2026/01/00a778_ba859afb39c34833ab8923c825788c09mv2.avif",
+                "https://pstore.tn/wp-content/uploads/2026/01/00a778_05fe291c660448c8ac220fbfa2e8e383mv2-300x343.jpg",
+                "https://pstore.tn/wp-content/uploads/2026/01/00a778_4c82f41fc16e4b98a17627cf28f9949amv2-300x343.jpg",
+                "https://pstore.tn/wp-content/uploads/2026/01/00a778_199ca83a9e324e699ab5c1a7b30217dbmv2-300x343.webp",
+                "https://pstore.tn/wp-content/uploads/2026/01/00a778_835c39e0a25245a79d9ebccd6fa8f20bmv2-300x343.webp",
+                "https://pstore.tn/wp-content/uploads/2022/09/pstore-logo-removebg-preview-1.png",
+                "https://www.facebook.com/tr?id=1242658751336789&ev=PageView&noscript=1&cd%5Bpage_title%5D=Accueil&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=532&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=pstore.tn%2F"
+            ]
+        }
+    }
+}
