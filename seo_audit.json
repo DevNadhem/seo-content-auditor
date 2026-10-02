@@ -1,0 +1,28 @@
+{
+    "target_url": "https://primini.tn",
+    "seo_metrics": {
+        "title": {
+            "text": "Primini.tn \u2014 Comparateur de Prix n\u00b01 en Tunisie | +150 000 Produits",
+            "length": 67,
+            "status": "Warning: Title should be 50-60 characters."
+        },
+        "meta_description": {
+            "text": "Comparez les prix de +150 000 produits chez 250+ e-shops tunisiens. Smartphones, \u00e9lectrom\u00e9nager, beaut\u00e9 \u2014 trouvez le meilleur prix en 2 clics.",
+            "length": 142,
+            "status": "Warning: Description should be 150-160 characters."
+        },
+        "headings": {
+            "h1_count": 1,
+            "h1_status": "Optimal",
+            "h1_content": [
+                "Comparez les prix des e-shops tunisiens avant d'acheter"
+            ],
+            "h2_count": 14
+        },
+        "images": {
+            "total_images": 280,
+            "missing_alt_count": 0,
+            "missing_alt_sources": []
+        }
+    }
+}
